@@ -1,0 +1,23 @@
+{
+  "name": "is-it-day-of-the-dead",
+  "version": "1.0.0",
+  "description": "Web app to check if it's Day of the Dead",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanWong02/is-it-day-of-the-dead.git"
+  },
+  "author": "Juan Carlos Wong Reyes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanWong02/is-it-day-of-the-dead/issues"
+  },
+  "homepage": "https://github.com/JuanWong02/is-it-day-of-the-dead#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
