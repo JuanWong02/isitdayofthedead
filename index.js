@@ -3,6 +3,8 @@ const express = require('express');
 const app = express();
 
 app.set('view engine', 'ejs');
+//intentar responder todas las peticiones con la carpeta public
+app.use(express.static('public'));
 //definir puerto
 const port = 3000;
 
