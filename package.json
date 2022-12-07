@@ -18,6 +18,6 @@
   "homepage": "https://github.com/JuanWong02/is-it-day-of-the-dead#readme",
   "dependencies": {
     "ejs": "^3.0.1",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
