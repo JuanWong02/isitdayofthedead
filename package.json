@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/JuanWong02/is-it-day-of-the-dead#readme",
   "dependencies": {
-    "ejs": "^3.1.7",
+    "ejs": "^3.1.10",
     "express": "^4.17.3"
   }
 }
